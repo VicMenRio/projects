@@ -2,13 +2,13 @@
 
 Welcome! This repository serves as a central hub for my technical projects.
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Languages & Core Tools
 - Python (NumPy, Pandas)
 - R
 - Bash
-- 
+  
 ### Deep Learing
 - Pytorch / Keras
 - Artificial Neural Networks
@@ -17,7 +17,7 @@ Welcome! This repository serves as a central hub for my technical projects.
 - NLP
 - Generative AI
 - Training pipelines
-- 
+  
 ### Machine Learning
 - scikit-learn / scipy
 - Supervised / Unsupervised learning
