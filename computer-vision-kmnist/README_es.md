@@ -20,7 +20,8 @@ Este proyecto implementa y compara diferentes arquitecturas de redes neuronales 
 │   ├── data_module.py       # DataModule para KMNIST
 │   ├── models.py            # Arquitecturas de redes neuronales
 │   ├── train.py             # Scripts de entrenamiento y optimización
-│   └── utils.py             # Utilidades y visualización
+│   ├── utils.py             # Utilidades y visualización
+│   └── predict.py           # Script simple de inferencia
 └── README.md                # Este archivo
 ```
 
