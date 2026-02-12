@@ -13,22 +13,16 @@ This project implements and compares different neural network architectures for 
 - **InceptionCNN**: CNN with Inception modules
 
 ## Project Structure
+```
 ├── requirements.txt # Project dependencies
-
 ├── src/
-
 │ ├── data_module.py # KMNIST DataModule
-
 │ ├── models.py # Neural network architectures
-
 │ ├── train.py # Training and optimization scripts
-
 │ ├── utils.py # Utilities and visualization
-
 | └── predict.py # Simple inference script
-
 └── README.md # This file
-
+```
 ## Installation
 
 1. Clone the repository:
