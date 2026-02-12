@@ -29,5 +29,5 @@
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/victor-mendez-riosalido-0462362a0/[https://www.linkedin.com/in/victor-mendez-riosalido-0462362a0/]
+- LinkedIn: https://www.linkedin.com/in/victor-mendez-riosalido-0462362a0/
 - Email: vicmenrio@gmail.com
