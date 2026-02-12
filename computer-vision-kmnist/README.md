@@ -23,7 +23,7 @@ This project implements and compares different neural network architectures for 
 
 │ ├── train.py # Training and optimization scripts
 
-│ └── utils.py # Utilities and visualization
+│ ├── utils.py # Utilities and visualization
 
 | └── predict.py # Simple inference script
 
