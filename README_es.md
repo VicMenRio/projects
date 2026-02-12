@@ -2,7 +2,7 @@
 
 ¡Bienvenido! Este repositorio actúa como hub central de mis proyectos.
 
-## 🧠 Habilidades técnicas
+## Habilidades técnicas
 
 ### Lenguajes y herramientas
 - Python (Numpy, Pandas)
